@@ -6,5 +6,6 @@ public class MapDemo {
 		
 		System.out.println("this is map demo here");
 		System.out.println("this is second line for map");
+		System.out.println("hiiiii");
 	}
 }

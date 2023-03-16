@@ -10,6 +10,6 @@ public class HashSetDemo {
 		hs.add("ajay");
 		hs.add("vikas");
 		hs.add("sohan");
-		System.out.println(hs);
+	
 	}
 }
